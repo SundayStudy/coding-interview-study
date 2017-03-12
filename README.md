@@ -1,1 +1,22 @@
-# coding-interview-study
+# Coding Interview Study
+
+2017 년 코딩 인터뷰 스터디 저장소입니다.
+
+## 진행 방법
+
+* 매주 일요일에 모여서 두 명씩 짝지어 면접관-면접자로 코딩 인터뷰를 연습합니다.
+* 20분 내의 제한시간 안에 풀 수 있는 문제와 모범 답안을 준비해 와야 합니다.
+* 스터디 종료 후 저장소에 문제와 답안을 출처와 함께 공유합니다.
+
+## 문제 목록
+
+1. [Index of Maximal Number](2017_03_12/1_Index_of_Maximal_Number)
+2. [Queue using Stack](2017_03_12/2_Queue_using_Stack)
+3. [H-index](2017_03_12/3_H_index)
+4. [Linked List from Binary Tree](2017_03_12/4_Linked_List_from_Binary_Tree)
+5. [Permutation of K-ary Numbers](2017_03_12/5_Permutation_of_K_ary_Numbers)
+6. [Sum of Self-Numbers](2017_03_12/6_Sum_of_Self_Numbers)
+
+## References
+* [코딩 인터뷰 퀘스천](http://www.kyobobook.co.kr/product/detailViewKor.laf?barcode=9788931447842)
+* [코딩 인터뷰 완전분석](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788966260485&orderClick=LEA&Kc=)
