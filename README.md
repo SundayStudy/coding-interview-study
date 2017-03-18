@@ -20,3 +20,5 @@
 ## References
 * [코딩 인터뷰 퀘스천](http://www.kyobobook.co.kr/product/detailViewKor.laf?barcode=9788931447842)
 * [코딩 인터뷰 완전분석](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788966260485&orderClick=LEA&Kc=)
+* [내가 구글 인터뷰를 풀 타임으로 8 개월 동안 공부한 이유](https://www.vobour.com/book/view/fiRGQMcmRkaw7pgpL)
+* [파이썬을 여행하는 히치하이커를 위한 안내서](http://python-guide-kr.readthedocs.io/ko/latest/)
