@@ -20,6 +20,7 @@
 
 ### [2017_03_19](2017_03_19)
 1. [Get Minimum of Stack](2017_03_19/1_Get_Minimum_of_Stack)
+2. [Z](2017_03_19/2_Z)
 
 
 ## References
