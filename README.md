@@ -22,6 +22,7 @@
 1. [Get Minimum of Stack](2017_03_19/1_Get_Minimum_of_Stack)
 2. [Z](2017_03_19/2_Z)
 3. [Perfect Number](2017_03_19/3_Perfect_Number)
+4. [Kth Number](2017_03_19/4_Kth_Number)
 
 ## References
 * [코딩 인터뷰 퀘스천](http://www.kyobobook.co.kr/product/detailViewKor.laf?barcode=9788931447842)
