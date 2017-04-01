@@ -4,11 +4,11 @@
  */
 
 #include <stdio.h>
-#include <math.h>
+#include <sys/param.h>
 
 int main() {
     int i;
-    int yesterday_stock_price[] = {1, 2, 3, 4, 5, 3};
+    int yesterday_stock_price[] = {1, 2, 3, 4, 5, 0, 6, 3};
     
     if (sizeof(yesterday_stock_price) / sizeof(int) < 2) {
         printf("less then 2 points : not available\n");
@@ -20,7 +20,7 @@ int main() {
     int maximum_profit = yesterday_stock_price[1] - yesterday_stock_price[0];
 
     for (i=1; i<sizeof(yesterday_stock_price) / sizeof(i); i++) {
-        minimum_price = min(minimum_price, yesterday_stock_price[i]);
+        minimum_price = MIN(minimum_price, yesterday_stock_price[i]);
         current_profit = yesterday_stock_price[i] - minimum_price;
 
         if (maximum_profit < current_profit) {
@@ -28,6 +28,8 @@ int main() {
         }
     }
 
-    return maximum_profit;
+    printf("%d\n", maximum_profit);
+
+    return 0;
 }
         
